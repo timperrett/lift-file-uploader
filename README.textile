@@ -1,0 +1,5 @@
+h2. AJAX File Upload with Lift
+
+This sample makes use of the valums file uploader:
+https://github.com/valums/file-uploader
+
